@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "D:\\_file-management"
+		},
+		{
+			"path": ".",
+			"name": "greeffer-creeper"
 		}
 	],
 	"settings": {
