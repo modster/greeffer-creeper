@@ -1,0 +1,9 @@
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.4
+--------------------
+GitHub Token: 75d1d0b250e9b7fa0e3c6f99ccdedf7af9a74b5b
+GitHub Gist: 77e8b61f98a2799be0d45f48c92a52b6
+GitHub Gist Type: Secret
+
+why not try object detection:
+https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606

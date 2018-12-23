@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<!--File Created By SMS Backup & Restore v10.05.212 on 14/10/2022 15:29:47-->
+<calls count="428" backup_set="eaf5b978-0714-4fcb-add6-bb26cf50b191" backup_date="1665782986667">
+  <call number="15872275217" duration="50" date="1522567305084" type="1" presentation="1" readable_date="Apr 1, 2018 1:21:45 AM" contact_name="Alana" />
+  <call number="15198820901" duration="357" date="1522634151653" type="1" presentation="1" readable_date="Apr 1, 2018 7:55:51 PM" contact_name="Denys Stewart" />
+  <call number="15872275217" duration="0" date="1522680103907" type="3" presentation="1" readable_date="Apr 2, 2018 8:41:43 AM" contact_name="Alana" />
+  <call number="15198820901" duration="135" date="1522789944988" type="1" presentation="1" readable_date="Apr 3, 2018 3:12:24 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="30" date="1522791702606" type="1" presentation="1" readable_date="Apr 3, 2018 3:41:42 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="214" date="1522793473032" type="1" presentation="1" readable_date="Apr 3, 2018 4:11:13 PM" contact_name="Denys Stewart" />
+  <call number="" duration="40" date="1522881376239" type="1" presentation="2" readable_date="Apr 4, 2018 4:36:16 PM" contact_name="(Unknown)" />
+  <call number="" duration="0" date="1522882479766" type="3" presentation="2" readable_date="Apr 4, 2018 4:54:39 PM" contact_name="(Unknown)" />
+  <call number="" duration="103" date="1522882525573" type="1" presentation="2" readable_date="Apr 4, 2018 4:55:25 PM" contact_name="(Unknown)" />
+  <call number="15873389064" duration="0" date="1522889412696" type="1" presentation="1" readable_date="Apr 4, 2018 6:50:12 PM" contact_name="AJ Borrower" />
+  <call number="15873389064" duration="106" date="1522889456106" type="2" presentation="1" readable_date="Apr 4, 2018 6:50:56 PM" contact_name="AJ Borrower" />
+  <call number="17802084475" duration="0" date="1522897899648" type="3" presentation="1" readable_date="Apr 4, 2018 9:11:39 PM" contact_name="kevin dubeau" />
+  <call number="17802084475" duration="2636" date="1522898010396" type="2" presentation="1" readable_date="Apr 4, 2018 9:13:30 PM" contact_name="kevin dubeau" />
+  <call number="15873389064" duration="0" date="1522978780029" type="3" presentation="1" readable_date="Apr 5, 2018 7:39:40 PM" contact_name="AJ Borrower" />
+  <call number="15872279555" duration="0" date="1522981299705" type="1" presentation="1" readable_date="Apr 5, 2018 8:21:39 PM" contact_name="(Unknown)" />
+  <call number="4039744000" duration="33" date="1523064999712" type="2" presentation="1" readable_date="Apr 6, 2018 7:36:39 PM" contact_name="(Unknown)" />
+  <call number="14032355226" duration="0" date="1523190784845" type="3" presentation="1" readable_date="Apr 8, 2018 6:33:04 AM" contact_name="(Unknown)" />
+  <call number="4038280781" duration="0" date="1523248643167" type="2" presentation="1" readable_date="Apr 8, 2018 10:37:23 PM" contact_name="(Unknown)" />
+  <call number="15873389064" duration="0" date="1523301991806" type="3" presentation="1" readable_date="Apr 9, 2018 1:26:31 PM" contact_name="AJ Borrower" />
+  <call number="15873389064" duration="158" date="1523402712430" type="1" presentation="1" readable_date="Apr 10, 2018 5:25:12 PM" contact_name="AJ Borrower" />
+  <call number="+13065804001" duration="42" date="1523415154390" type="2" presentation="1" readable_date="Apr 10, 2018 8:52:34 PM" contact_name="(Unknown)" />
+  <call number="15872272100" duration="79" date="1523458965135" type="1" presentation="1" readable_date="Apr 11, 2018 9:02:45 AM" contact_name="Steve Gillis" />
+  <call number="5872272100" duration="43" date="1523462216515" type="2" presentation="1" readable_date="Apr 11, 2018 9:56:56 AM" contact_name="Steve Gillis" />
+  <call number="15198820901" duration="55" date="1523843463193" type="1" presentation="1" readable_date="Apr 15, 2018 7:51:03 PM" contact_name="Denys Stewart" />
+  <call number="+15198820901" duration="370" date="1523843548785" type="2" presentation="1" readable_date="Apr 15, 2018 7:52:28 PM" contact_name="Denys Stewart" />
+  <call number="14036782288" duration="355" date="1523991189622" type="1" presentation="1" readable_date="Apr 17, 2018 12:53:09 PM" contact_name="Ash" />
+  <call number="15878871948" duration="13" date="1524016386362" type="1" presentation="1" readable_date="Apr 17, 2018 7:53:06 PM" contact_name="(Unknown)" />
+  <call number="15873389064" duration="0" date="1524020452587" type="1" presentation="1" readable_date="Apr 17, 2018 9:00:52 PM" contact_name="AJ Borrower" />
+  <call number="15873389064" duration="0" date="1524020572932" type="1" presentation="1" readable_date="Apr 17, 2018 9:02:52 PM" contact_name="AJ Borrower" />
+  <call number="14036782288" duration="68" date="1524157915982" type="1" presentation="1" readable_date="Apr 19, 2018 11:11:55 AM" contact_name="Ash" />
+  <call number="14036782288" duration="111" date="1524161682527" type="2" presentation="1" readable_date="Apr 19, 2018 12:14:42 PM" contact_name="Ash" />
+  <call number="15872275217" duration="173" date="1524179376418" type="1" presentation="1" readable_date="Apr 19, 2018 5:09:36 PM" contact_name="Alana" />
+  <call number="+15198820901" duration="0" date="1524238609066" type="2" presentation="1" readable_date="Apr 20, 2018 9:36:49 AM" contact_name="Denys Stewart" />
+  <call number="15872272100" duration="0" date="1524351947297" type="3" presentation="1" readable_date="Apr 21, 2018 5:05:47 PM" contact_name="Steve Gillis" />
+  <call number="5872272100" duration="18" date="1524353588088" type="2" presentation="1" readable_date="Apr 21, 2018 5:33:08 PM" contact_name="Steve Gillis" />
+  <call number="15872272100" duration="0" date="1524354665995" type="3" presentation="1" readable_date="Apr 21, 2018 5:51:05 PM" contact_name="Steve Gillis" />
+  <call number="5872272100" duration="58" date="1524355488283" type="2" presentation="1" readable_date="Apr 21, 2018 6:04:48 PM" contact_name="Steve Gillis" />
+  <call number="15872272100" duration="37" date="1524362508004" type="1" presentation="1" readable_date="Apr 21, 2018 8:01:48 PM" contact_name="Steve Gillis" />
+  <call number="15872275217" duration="0" date="1524423007504" type="3" presentation="1" readable_date="Apr 22, 2018 12:50:07 PM" contact_name="Alana" />
+  <call number="15872272100" duration="0" date="1524423380276" type="3" presentation="1" readable_date="Apr 22, 2018 12:56:20 PM" contact_name="Steve Gillis" />
+  <call number="15872272100" duration="40" date="1524425492298" type="2" presentation="1" readable_date="Apr 22, 2018 1:31:32 PM" contact_name="Steve Gillis" />
+  <call number="15198820901" duration="701" date="1524432481377" type="1" presentation="1" readable_date="Apr 22, 2018 3:28:01 PM" contact_name="Denys Stewart" />
+  <call number="15872275217" duration="18" date="1524437444576" type="1" presentation="1" readable_date="Apr 22, 2018 4:50:44 PM" contact_name="Alana" />
+  <call number="14037011113" duration="24" date="1524441184905" type="1" presentation="1" readable_date="Apr 22, 2018 5:53:04 PM" contact_name="Stacey Radmore" />
+  <call number="+14034622517" duration="32" date="1524441323788" type="2" presentation="1" readable_date="Apr 22, 2018 5:55:23 PM" contact_name="Shannon" />
+  <call number="15198820901" duration="49" date="1524447256996" type="2" presentation="1" readable_date="Apr 22, 2018 7:34:16 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="0" date="1524448230334" type="3" presentation="1" readable_date="Apr 22, 2018 7:50:30 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="232" date="1524449227745" type="2" presentation="1" readable_date="Apr 22, 2018 8:07:07 PM" contact_name="Denys Stewart" />
+  <call number="15878883755" duration="0" date="1524454245442" type="3" presentation="1" readable_date="Apr 22, 2018 9:30:45 PM" contact_name="Debbie (Steve Gillis's Sister)" />
+  <call number="15198820901" duration="100" date="1524513830392" type="2" presentation="1" readable_date="Apr 23, 2018 2:03:50 PM" contact_name="Denys Stewart" />
+  <call number="+13065804001" duration="63" date="1524568601134" type="2" presentation="1" readable_date="Apr 24, 2018 5:16:41 AM" contact_name="(Unknown)" />
+  <call number="15872231960" duration="0" date="1524614541012" type="3" presentation="1" readable_date="Apr 24, 2018 6:02:21 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="3" date="1524616814334" type="2" presentation="1" readable_date="Apr 24, 2018 6:40:14 PM" contact_name="(Unknown)" />
+  <call number="14034231007" duration="459" date="1524678592798" type="1" presentation="1" readable_date="Apr 25, 2018 11:49:52 AM" contact_name="Karl Buote" />
+  <call number="14034231007" duration="33" date="1524679228445" type="1" presentation="1" readable_date="Apr 25, 2018 12:00:28 PM" contact_name="Karl Buote" />
+  <call number="14036782288" duration="114" date="1524685068449" type="1" presentation="1" readable_date="Apr 25, 2018 1:37:48 PM" contact_name="Ash" />
+  <call number="15878883755" duration="15" date="1524721302421" type="1" presentation="1" readable_date="Apr 25, 2018 11:41:42 PM" contact_name="Debbie (Steve Gillis's Sister)" />
+  <call number="5878883755" duration="0" date="1524721361598" type="2" presentation="1" readable_date="Apr 25, 2018 11:42:41 PM" contact_name="Debbie (Steve Gillis's Sister)" />
+  <call number="15878883755" duration="12" date="1524769871798" type="1" presentation="1" readable_date="Apr 26, 2018 1:11:11 PM" contact_name="Debbie (Steve Gillis's Sister)" />
+  <call number="14032355226" duration="0" date="1524857334733" type="3" presentation="1" readable_date="Apr 27, 2018 1:28:54 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="22" date="1524858711549" type="2" presentation="1" readable_date="Apr 27, 2018 1:51:51 PM" contact_name="(Unknown)" />
+  <call number="15198820901" duration="0" date="1525049116933" type="3" presentation="1" readable_date="Apr 29, 2018 6:45:16 PM" contact_name="Denys Stewart" />
+  <call number="+15198820901" duration="490" date="1525055342182" type="2" presentation="1" readable_date="Apr 29, 2018 8:29:02 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="53" date="1525055917273" type="1" presentation="1" readable_date="Apr 29, 2018 8:38:37 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="0" date="1525183735301" type="3" presentation="1" readable_date="May 1, 2018 8:08:55 AM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="0" date="1525186921748" type="3" presentation="1" readable_date="May 1, 2018 9:02:01 AM" contact_name="Denys Stewart" />
+  <call number="15872275217" duration="0" date="1525187270497" type="3" presentation="1" readable_date="May 1, 2018 9:07:50 AM" contact_name="Alana" />
+  <call number="15872275217" duration="0" date="1525187310549" type="3" presentation="1" readable_date="May 1, 2018 9:08:30 AM" contact_name="Alana" />
+  <call number="15872275217" duration="0" date="1525187673603" type="3" presentation="1" readable_date="May 1, 2018 9:14:33 AM" contact_name="Alana" />
+  <call number="15872272100" duration="0" date="1525187977662" type="3" presentation="1" readable_date="May 1, 2018 9:19:37 AM" contact_name="Steve Gillis" />
+  <call number="15872272100" duration="0" date="1525188015753" type="3" presentation="1" readable_date="May 1, 2018 9:20:15 AM" contact_name="Steve Gillis" />
+  <call number="15872272100" duration="0" date="1525188053448" type="3" presentation="1" readable_date="May 1, 2018 9:20:53 AM" contact_name="Steve Gillis" />
+  <call number="15872272100" duration="0" date="1525188093767" type="3" presentation="1" readable_date="May 1, 2018 9:21:33 AM" contact_name="Steve Gillis" />
+  <call number="15872272100" duration="0" date="1525188132654" type="3" presentation="1" readable_date="May 1, 2018 9:22:12 AM" contact_name="Steve Gillis" />
+  <call number="15872275217" duration="0" date="1525188466741" type="3" presentation="1" readable_date="May 1, 2018 9:27:46 AM" contact_name="Alana" />
+  <call number="15872275217" duration="0" date="1525188524643" type="3" presentation="1" readable_date="May 1, 2018 9:28:44 AM" contact_name="Alana" />
+  <call number="15198820901" duration="0" date="1525188709079" type="3" presentation="1" readable_date="May 1, 2018 9:31:49 AM" contact_name="Denys Stewart" />
+  <call number="15872272100" duration="33" date="1525188921200" type="2" presentation="1" readable_date="May 1, 2018 9:35:21 AM" contact_name="Steve Gillis" />
+  <call number="15198820901" duration="0" date="1525251305084" type="3" presentation="1" readable_date="May 2, 2018 2:55:05 AM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="0" date="1525251305084" type="3" presentation="1" readable_date="May 2, 2018 2:55:05 AM" contact_name="Denys Stewart" />
+  <call number="+13065804001" duration="132" date="1525253422367" type="2" presentation="1" readable_date="May 2, 2018 3:30:22 AM" contact_name="(Unknown)" />
+  <call number="14036782288" duration="23" date="1525275088882" type="2" presentation="1" readable_date="May 2, 2018 9:31:28 AM" contact_name="Ash" />
+  <call number="14037624499" duration="21" date="1525298489047" type="2" presentation="1" readable_date="May 2, 2018 4:01:29 PM" contact_name="(Unknown)" />
+  <call number="14036786369" duration="0" date="1525299120729" type="3" presentation="1" readable_date="May 2, 2018 4:12:00 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="51" date="1525300343435" type="2" presentation="1" readable_date="May 2, 2018 4:32:23 PM" contact_name="(Unknown)" />
+  <call number="14036786369" duration="181" date="1525360724736" type="2" presentation="1" readable_date="May 3, 2018 9:18:44 AM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="0" date="1525370015616" type="3" presentation="1" readable_date="May 3, 2018 11:53:35 AM" contact_name="Stacey Radmore" />
+  <call number="14036782288" duration="0" date="1525450204229" type="3" presentation="1" readable_date="May 4, 2018 10:10:04 AM" contact_name="Ash" />
+  <call number="14036782288" duration="173" date="1525450262477" type="2" presentation="1" readable_date="May 4, 2018 10:11:02 AM" contact_name="Ash" />
+  <call number="14032355226" duration="0" date="1525451754303" type="3" presentation="1" readable_date="May 4, 2018 10:35:54 AM" contact_name="(Unknown)" />
+  <call number="14034231007" duration="0" date="1525455573452" type="3" presentation="1" readable_date="May 4, 2018 11:39:33 AM" contact_name="Karl Buote" />
+  <call number="+13065804001" duration="163" date="1525468316430" type="2" presentation="1" readable_date="May 4, 2018 3:11:56 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="64" date="1525469959633" type="2" presentation="1" readable_date="May 4, 2018 3:39:19 PM" contact_name="(Unknown)" />
+  <call number="4036786326" duration="45" date="1525470046565" type="2" presentation="1" readable_date="May 4, 2018 3:40:46 PM" contact_name="(Unknown)" />
+  <call number="4036786326" duration="195" date="1525470405934" type="2" presentation="1" readable_date="May 4, 2018 3:46:45 PM" contact_name="(Unknown)" />
+  <call number="4034231007" duration="64" date="1525471065253" type="2" presentation="1" readable_date="May 4, 2018 3:57:45 PM" contact_name="Karl Buote" />
+  <call number="14037011113" duration="0" date="1525562315860" type="1" presentation="1" readable_date="May 5, 2018 5:18:35 PM" contact_name="Stacey Radmore" />
+  <call number="4036881244" duration="37" date="1525564459602" type="2" presentation="1" readable_date="May 5, 2018 5:54:19 PM" contact_name="(Unknown)" />
+  <call number="4036881244" duration="11" date="1525565393790" type="2" presentation="1" readable_date="May 5, 2018 6:09:53 PM" contact_name="(Unknown)" />
+  <call number="4036881244" duration="17" date="1525565445354" type="2" presentation="1" readable_date="May 5, 2018 6:10:45 PM" contact_name="(Unknown)" />
+  <call number="4036881244" duration="25" date="1525565507767" type="2" presentation="1" readable_date="May 5, 2018 6:11:47 PM" contact_name="(Unknown)" />
+  <call number="4036881244" duration="35" date="1525567244975" type="2" presentation="1" readable_date="May 5, 2018 6:40:44 PM" contact_name="(Unknown)" />
+  <call number="4036881244" duration="62" date="1525568111928" type="2" presentation="1" readable_date="May 5, 2018 6:55:11 PM" contact_name="(Unknown)" />
+  <call number="14034622517" duration="0" date="1525626565143" type="3" presentation="1" readable_date="May 6, 2018 11:09:25 AM" contact_name="Shannon" />
+  <call number="14034622517" duration="147" date="1525647902992" type="2" presentation="1" readable_date="May 6, 2018 5:05:02 PM" contact_name="Shannon" />
+  <call number="14032355226" duration="0" date="1525650692874" type="3" presentation="1" readable_date="May 6, 2018 5:51:32 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="111" date="1525658977824" type="2" presentation="1" readable_date="May 6, 2018 8:09:37 PM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="0" date="1525734409182" type="1" presentation="1" readable_date="May 7, 2018 5:06:49 PM" contact_name="Stacey Radmore" />
+  <call number="+13065804001" duration="26" date="1525735627702" type="2" presentation="1" readable_date="May 7, 2018 5:27:07 PM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="152" date="1525735675252" type="2" presentation="1" readable_date="May 7, 2018 5:27:55 PM" contact_name="Stacey Radmore" />
+  <call number="14036786369" duration="55" date="1525797843985" type="1" presentation="1" readable_date="May 8, 2018 10:44:03 AM" contact_name="(Unknown)" />
+  <call number="15872272100" duration="48" date="1525898506218" type="1" presentation="1" readable_date="May 9, 2018 2:41:46 PM" contact_name="Steve Gillis" />
+  <call number="14036780782" duration="33" date="1525903033531" type="1" presentation="1" readable_date="May 9, 2018 3:57:13 PM" contact_name="(Unknown)" />
+  <call number="4036786326" duration="260" date="1525906165217" type="2" presentation="1" readable_date="May 9, 2018 4:49:25 PM" contact_name="(Unknown)" />
+  <call number="+15198820901" duration="523" date="1525956294650" type="2" presentation="1" readable_date="May 10, 2018 6:44:54 AM" contact_name="Denys Stewart" />
+  <call number="+15198820901" duration="76" date="1525957306723" type="2" presentation="1" readable_date="May 10, 2018 7:01:46 AM" contact_name="Denys Stewart" />
+  <call number="+13065804001" duration="0" date="1526002896309" type="2" presentation="1" readable_date="May 10, 2018 7:41:36 PM" contact_name="(Unknown)" />
+  <call number="18882267831" duration="780" date="1526141465284" type="2" presentation="1" readable_date="May 12, 2018 10:11:05 AM" contact_name="(Unknown)" />
+  <call number="15872272100" duration="0" date="1526229531610" type="1" presentation="1" readable_date="May 13, 2018 10:38:51 AM" contact_name="Steve Gillis" />
+  <call number="+15198820901" duration="644" date="1526261194170" type="2" presentation="1" readable_date="May 13, 2018 7:26:34 PM" contact_name="Denys Stewart" />
+  <call number="14036786369" duration="0" date="1526274701287" type="3" presentation="1" readable_date="May 13, 2018 11:11:41 PM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="40" date="1526311339343" type="1" presentation="1" readable_date="May 14, 2018 9:22:19 AM" contact_name="Stacey Radmore" />
+  <call number="+13065804001" duration="34" date="1526633518654" type="2" presentation="1" readable_date="May 18, 2018 2:51:58 AM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="0" date="1526697692445" type="3" presentation="1" readable_date="May 18, 2018 8:41:32 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1526697741763" type="3" presentation="1" readable_date="May 18, 2018 8:42:21 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1526697848925" type="3" presentation="1" readable_date="May 18, 2018 8:44:08 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1526697977013" type="3" presentation="1" readable_date="May 18, 2018 8:46:17 PM" contact_name="Stacey Radmore" />
+  <call number="15872275217" duration="90" date="1526699562879" type="1" presentation="1" readable_date="May 18, 2018 9:12:42 PM" contact_name="Alana" />
+  <call number="15872275217" duration="0" date="1526836456622" type="3" presentation="1" readable_date="May 20, 2018 11:14:16 AM" contact_name="Alana" />
+  <call number="15198820901" duration="0" date="1526870039117" type="3" presentation="1" readable_date="May 20, 2018 8:33:59 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="707" date="1526946343028" type="2" presentation="1" readable_date="May 21, 2018 5:45:43 PM" contact_name="Denys Stewart" />
+  <call number="" duration="96" date="1526953277007" type="1" presentation="2" readable_date="May 21, 2018 7:41:17 PM" contact_name="(Unknown)" />
+  <call number="15872275217" duration="56" date="1527029300997" type="1" presentation="1" readable_date="May 22, 2018 4:48:20 PM" contact_name="Alana" />
+  <call number="14036786855" duration="0" date="1527102783317" type="3" presentation="1" readable_date="May 23, 2018 1:13:03 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="80" date="1527123715662" type="2" presentation="1" readable_date="May 23, 2018 7:01:55 PM" contact_name="(Unknown)" />
+  <call number="0115518553453498" duration="0" date="1527287045484" type="3" presentation="1" readable_date="May 25, 2018 4:24:05 PM" contact_name="(Unknown)" />
+  <call number="18553458673" duration="0" date="1527287118722" type="1" presentation="1" readable_date="May 25, 2018 4:25:18 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="52" date="1527325750200" type="2" presentation="1" readable_date="May 26, 2018 3:09:10 AM" contact_name="(Unknown)" />
+  <call number="14032355226" duration="0" date="1527450023014" type="3" presentation="1" readable_date="May 27, 2018 1:40:23 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="50" date="1527450089897" type="2" presentation="1" readable_date="May 27, 2018 1:41:29 PM" contact_name="(Unknown)" />
+  <call number="4039744000" duration="165" date="1527453411071" type="2" presentation="1" readable_date="May 27, 2018 2:36:51 PM" contact_name="(Unknown)" />
+  <call number="15198820901" duration="549" date="1527465408103" type="1" presentation="1" readable_date="May 27, 2018 5:56:48 PM" contact_name="Denys Stewart" />
+  <call number="4036780782" duration="99" date="1527539179653" type="2" presentation="1" readable_date="May 28, 2018 2:26:19 PM" contact_name="(Unknown)" />
+  <call number="15872272100" duration="0" date="1527631289647" type="3" presentation="1" readable_date="May 29, 2018 4:01:29 PM" contact_name="Steve Gillis" />
+  <call number="+13065804001" duration="22" date="1527634631792" type="2" presentation="1" readable_date="May 29, 2018 4:57:11 PM" contact_name="(Unknown)" />
+  <call number="5872272100" duration="213" date="1527634691815" type="2" presentation="1" readable_date="May 29, 2018 4:58:11 PM" contact_name="Steve Gillis" />
+  <call number="18003639992" duration="45" date="1527689525596" type="2" presentation="1" readable_date="May 30, 2018 8:12:05 AM" contact_name="(Unknown)" />
+  <call number="18000" duration="0" date="1527689584539" type="2" presentation="1" readable_date="May 30, 2018 8:13:04 AM" contact_name="(Unknown)" />
+  <call number="18003639992" duration="108" date="1527689596880" type="2" presentation="1" readable_date="May 30, 2018 8:13:16 AM" contact_name="(Unknown)" />
+  <call number="4034231007" duration="0" date="1527772960762" type="2" presentation="1" readable_date="May 31, 2018 7:22:40 AM" contact_name="Karl Buote" />
+  <call number="15872278599" duration="30" date="1527793931156" type="1" presentation="1" readable_date="May 31, 2018 1:12:11 PM" contact_name="(Unknown)" />
+  <call number="15872275217" duration="23" date="1527809155676" type="1" presentation="1" readable_date="May 31, 2018 5:25:55 PM" contact_name="Alana" />
+  <call number="18662594317" duration="0" date="1527862309712" type="3" presentation="1" readable_date="Jun 1, 2018 8:11:49 AM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="23" date="1527876170410" type="2" presentation="1" readable_date="Jun 1, 2018 12:02:50 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="55" date="1527913783150" type="2" presentation="1" readable_date="Jun 1, 2018 10:29:43 PM" contact_name="(Unknown)" />
+  <call number="14034853804" duration="0" date="1528061339855" type="3" presentation="1" readable_date="Jun 3, 2018 3:28:59 PM" contact_name="Karl Buote" />
+  <call number="+13065804001" duration="39" date="1528063322256" type="2" presentation="1" readable_date="Jun 3, 2018 4:02:02 PM" contact_name="(Unknown)" />
+  <call number="4034853804" duration="39" date="1528063375620" type="2" presentation="1" readable_date="Jun 3, 2018 4:02:55 PM" contact_name="Karl Buote" />
+  <call number="15198820901" duration="794" date="1528079414873" type="1" presentation="1" readable_date="Jun 3, 2018 8:30:14 PM" contact_name="Denys Stewart" />
+  <call number="15872275217" duration="0" date="1528094840123" type="3" presentation="1" readable_date="Jun 4, 2018 12:47:20 AM" contact_name="Alana" />
+  <call number="+14035002036" duration="43" date="1528124899275" type="2" presentation="1" readable_date="Jun 4, 2018 9:08:19 AM" contact_name="(Unknown)" />
+  <call number="14032355226" duration="0" date="1528135105676" type="3" presentation="1" readable_date="Jun 4, 2018 11:58:25 AM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="135" date="1528136180731" type="2" presentation="1" readable_date="Jun 4, 2018 12:16:20 PM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="0" date="1528136978366" type="3" presentation="1" readable_date="Jun 4, 2018 12:29:38 PM" contact_name="(Unknown)" />
+  <call number="15872272100" duration="0" date="1528138293021" type="3" presentation="1" readable_date="Jun 4, 2018 12:51:33 PM" contact_name="Steve Gillis" />
+  <call number="15872272100" duration="0" date="1528138504580" type="3" presentation="1" readable_date="Jun 4, 2018 12:55:04 PM" contact_name="Steve Gillis" />
+  <call number="15872272100" duration="155" date="1528141414557" type="2" presentation="1" readable_date="Jun 4, 2018 1:43:34 PM" contact_name="Steve Gillis" />
+  <call number="15872272100" duration="13" date="1528149821489" type="1" presentation="1" readable_date="Jun 4, 2018 4:03:41 PM" contact_name="Steve Gillis" />
+  <call number="18662594317" duration="20" date="1528154216947" type="1" presentation="1" readable_date="Jun 4, 2018 5:16:56 PM" contact_name="(Unknown)" />
+  <call number="14037205905" duration="0" date="1528209627568" type="3" presentation="1" readable_date="Jun 5, 2018 8:40:27 AM" contact_name="Val" />
+  <call number="15872275217" duration="14" date="1528212977401" type="1" presentation="1" readable_date="Jun 5, 2018 9:36:17 AM" contact_name="Alana" />
+  <call number="+13065804001" duration="33" date="1528217146155" type="2" presentation="1" readable_date="Jun 5, 2018 10:45:46 AM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="0" date="1528229909266" type="3" presentation="1" readable_date="Jun 5, 2018 2:18:29 PM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="0" date="1528298854479" type="1" presentation="1" readable_date="Jun 6, 2018 9:27:34 AM" contact_name="(Unknown)" />
+  <call number="14035544444" duration="928" date="1528299245227" type="1" presentation="1" readable_date="Jun 6, 2018 9:34:05 AM" contact_name="(Unknown)" />
+  <call number="14034762011" duration="226" date="1528302568511" type="1" presentation="1" readable_date="Jun 6, 2018 10:29:28 AM" contact_name="(Unknown)" />
+  <call number="17804225555" duration="929" date="1528302980171" type="2" presentation="1" readable_date="Jun 6, 2018 10:36:20 AM" contact_name="(Unknown)" />
+  <call number="17804225555" duration="57" date="1528303937036" type="2" presentation="1" readable_date="Jun 6, 2018 10:52:17 AM" contact_name="(Unknown)" />
+  <call number="14034762011" duration="103" date="1528304003355" type="2" presentation="1" readable_date="Jun 6, 2018 10:53:23 AM" contact_name="(Unknown)" />
+  <call number="17804225555" duration="1058" date="1528308818962" type="2" presentation="1" readable_date="Jun 6, 2018 12:13:38 PM" contact_name="(Unknown)" />
+  <call number="14034762011" duration="141" date="1528310098065" type="2" presentation="1" readable_date="Jun 6, 2018 12:34:58 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="136" date="1528385134673" type="2" presentation="1" readable_date="Jun 7, 2018 9:25:34 AM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="76" date="1528385281009" type="2" presentation="1" readable_date="Jun 7, 2018 9:28:01 AM" contact_name="(Unknown)" />
+  <call number="4033876480" duration="45" date="1528385377322" type="2" presentation="1" readable_date="Jun 7, 2018 9:29:37 AM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="0" date="1528387169887" type="3" presentation="1" readable_date="Jun 7, 2018 9:59:29 AM" contact_name="(Unknown)" />
+  <call number="14036780782" duration="110" date="1528402074733" type="1" presentation="1" readable_date="Jun 7, 2018 2:07:54 PM" contact_name="(Unknown)" />
+  <call number="4033876480" duration="41" date="1528402654093" type="2" presentation="1" readable_date="Jun 7, 2018 2:17:34 PM" contact_name="(Unknown)" />
+  <call number="4033876480" duration="10" date="1528409120310" type="2" presentation="1" readable_date="Jun 7, 2018 4:05:20 PM" contact_name="(Unknown)" />
+  <call number="15872272100" duration="92" date="1528410006703" type="1" presentation="1" readable_date="Jun 7, 2018 4:20:06 PM" contact_name="Steve Gillis" />
+  <call number="18662594317" duration="0" date="1528481610019" type="1" presentation="1" readable_date="Jun 8, 2018 12:13:30 PM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="2" date="1528503873833" type="1" presentation="1" readable_date="Jun 8, 2018 6:24:33 PM" contact_name="Stacey Radmore" />
+  <call number="15872275217" duration="1" date="1528518289741" type="1" presentation="1" readable_date="Jun 8, 2018 10:24:49 PM" contact_name="Alana" />
+  <call number="4036065006" duration="10" date="1528520062385" type="2" presentation="1" readable_date="Jun 8, 2018 10:54:22 PM" contact_name="Richard Executive Mat" />
+  <call number="14036786369" duration="31" date="1528521062011" type="1" presentation="1" readable_date="Jun 8, 2018 11:11:02 PM" contact_name="(Unknown)" />
+  <call number="15872275217" duration="0" date="1528660001077" type="3" presentation="1" readable_date="Jun 10, 2018 1:46:41 PM" contact_name="Alana" />
+  <call number="15872275217" duration="0" date="1528660204011" type="3" presentation="1" readable_date="Jun 10, 2018 1:50:04 PM" contact_name="Alana" />
+  <call number="15198820901" duration="152" date="1528682935195" type="1" presentation="1" readable_date="Jun 10, 2018 8:08:55 PM" contact_name="Denys Stewart" />
+  <call number="+15198820901" duration="820" date="1528683110897" type="2" presentation="1" readable_date="Jun 10, 2018 8:11:50 PM" contact_name="Denys Stewart" />
+  <call number="18662594317" duration="0" date="1528746558231" type="3" presentation="1" readable_date="Jun 11, 2018 1:49:18 PM" contact_name="(Unknown)" />
+  <call number="19055033436" duration="0" date="1528823829970" type="3" presentation="1" readable_date="Jun 12, 2018 11:17:09 AM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="0" date="1528828679783" type="3" presentation="1" readable_date="Jun 12, 2018 12:37:59 PM" contact_name="(Unknown)" />
+  <call number="5872272100" duration="0" date="1528839913554" type="2" presentation="1" readable_date="Jun 12, 2018 3:45:13 PM" contact_name="Steve Gillis" />
+  <call number="+13065804001" duration="46" date="1528839930115" type="2" presentation="1" readable_date="Jun 12, 2018 3:45:30 PM" contact_name="(Unknown)" />
+  <call number="15872225421" duration="17" date="1528854798426" type="1" presentation="1" readable_date="Jun 12, 2018 7:53:18 PM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="0" date="1528903892267" type="1" presentation="1" readable_date="Jun 13, 2018 9:31:32 AM" contact_name="(Unknown)" />
+  <call number="18774257840" duration="0" date="1528938581498" type="3" presentation="1" readable_date="Jun 13, 2018 7:09:41 PM" contact_name="(Unknown)" />
+  <call number="18774257840" duration="0" date="1528942738054" type="3" presentation="1" readable_date="Jun 13, 2018 8:18:58 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="32" date="1528943249958" type="2" presentation="1" readable_date="Jun 13, 2018 8:27:29 PM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="0" date="1528990496535" type="3" presentation="1" readable_date="Jun 14, 2018 9:34:56 AM" contact_name="(Unknown)" />
+  <call number="18774257840" duration="0" date="1528999562588" type="3" presentation="1" readable_date="Jun 14, 2018 12:06:02 PM" contact_name="(Unknown)" />
+  <call number="18774257840" duration="0" date="1529025865216" type="3" presentation="1" readable_date="Jun 14, 2018 7:24:25 PM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="35" date="1529071432080" type="1" presentation="1" readable_date="Jun 15, 2018 8:03:52 AM" contact_name="(Unknown)" />
+  <call number="18774257840" duration="0" date="1529072272749" type="1" presentation="1" readable_date="Jun 15, 2018 8:17:52 AM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="0" date="1529157918558" type="1" presentation="1" readable_date="Jun 16, 2018 8:05:18 AM" contact_name="(Unknown)" />
+  <call number="18774257840" duration="0" date="1529161089236" type="3" presentation="1" readable_date="Jun 16, 2018 8:58:09 AM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="0" date="1529265228017" type="3" presentation="1" readable_date="Jun 17, 2018 1:53:48 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1529266302682" type="3" presentation="1" readable_date="Jun 17, 2018 2:11:42 PM" contact_name="Stacey Radmore" />
+  <call number="+15198820901" duration="556" date="1529288809774" type="2" presentation="1" readable_date="Jun 17, 2018 8:26:49 PM" contact_name="Denys Stewart" />
+  <call number="18662594317" duration="0" date="1529338759440" type="1" presentation="1" readable_date="Jun 18, 2018 10:19:19 AM" contact_name="(Unknown)" />
+  <call number="18774257840" duration="0" date="1529375000373" type="1" presentation="1" readable_date="Jun 18, 2018 8:23:20 PM" contact_name="(Unknown)" />
+  <call number="18774257840" duration="0" date="1529423371197" type="1" presentation="1" readable_date="Jun 19, 2018 9:49:31 AM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="0" date="1529431767212" type="3" presentation="1" readable_date="Jun 19, 2018 12:09:27 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="27" date="1529439308810" type="2" presentation="1" readable_date="Jun 19, 2018 2:15:08 PM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="0" date="1529448875874" type="1" presentation="1" readable_date="Jun 19, 2018 4:54:35 PM" contact_name="(Unknown)" />
+  <call number="18662594317" duration="0" date="1529518426799" type="1" presentation="1" readable_date="Jun 20, 2018 12:13:46 PM" contact_name="(Unknown)" />
+  <call number="19054802665" duration="0" date="1529590591784" type="3" presentation="1" readable_date="Jun 21, 2018 8:16:31 AM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="36" date="1529598399395" type="2" presentation="1" readable_date="Jun 21, 2018 10:26:39 AM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="57" date="1529633987784" type="1" presentation="1" readable_date="Jun 21, 2018 8:19:47 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1529678898815" type="3" presentation="1" readable_date="Jun 22, 2018 8:48:18 AM" contact_name="Stacey Radmore" />
+  <call number="4037205905" duration="146" date="1529680235763" type="2" presentation="1" readable_date="Jun 22, 2018 9:10:35 AM" contact_name="Val" />
+  <call number="15193121387" duration="0" date="1529891338013" type="3" presentation="1" readable_date="Jun 24, 2018 7:48:58 PM" contact_name="Stewart" />
+  <call number="14037011113" duration="0" date="1529891477591" type="3" presentation="1" readable_date="Jun 24, 2018 7:51:17 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="110" date="1529891519386" type="1" presentation="1" readable_date="Jun 24, 2018 7:51:59 PM" contact_name="Stacey Radmore" />
+  <call number="15198820901" duration="0" date="1529893860809" type="2" presentation="1" readable_date="Jun 24, 2018 8:31:00 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="0" date="1529894813827" type="2" presentation="1" readable_date="Jun 24, 2018 8:46:53 PM" contact_name="Denys Stewart" />
+  <call number="4032999999" duration="42" date="1530145732036" type="2" presentation="1" readable_date="Jun 27, 2018 6:28:52 PM" contact_name="(Unknown)" />
+  <call number="14036065006" duration="18" date="1530146647727" type="1" presentation="1" readable_date="Jun 27, 2018 6:44:07 PM" contact_name="Richard Executive Mat" />
+  <call number="4036065006" duration="8" date="1530195470827" type="2" presentation="1" readable_date="Jun 28, 2018 8:17:50 AM" contact_name="Richard Executive Mat" />
+  <call number="14036065006" duration="33" date="1530195563603" type="1" presentation="1" readable_date="Jun 28, 2018 8:19:23 AM" contact_name="Richard Executive Mat" />
+  <call number="14036065006" duration="53" date="1530197814580" type="1" presentation="1" readable_date="Jun 28, 2018 8:56:54 AM" contact_name="Richard Executive Mat" />
+  <call number="14036065006" duration="0" date="1530199131792" type="1" presentation="1" readable_date="Jun 28, 2018 9:18:51 AM" contact_name="Richard Executive Mat" />
+  <call number="14034762011" duration="0" date="1530200027287" type="1" presentation="1" readable_date="Jun 28, 2018 9:33:47 AM" contact_name="(Unknown)" />
+  <call number="14032355226" duration="0" date="1530299120925" type="1" presentation="1" readable_date="Jun 29, 2018 1:05:20 PM" contact_name="(Unknown)" />
+  <call number="14036065006" duration="29" date="1530334796980" type="1" presentation="1" readable_date="Jun 29, 2018 10:59:56 PM" contact_name="Richard Executive Mat" />
+  <call number="+15193121387" duration="42" date="1530379695710" type="2" presentation="1" readable_date="Jun 30, 2018 11:28:15 AM" contact_name="Stewart" />
+  <call number="4034853804" duration="0" date="1530379734366" type="2" presentation="1" readable_date="Jun 30, 2018 11:28:54 AM" contact_name="Karl Buote" />
+  <call number="14034853804" duration="789" date="1530379762348" type="1" presentation="1" readable_date="Jun 30, 2018 11:29:22 AM" contact_name="Karl Buote" />
+  <call number="+13065804001" duration="7" date="1530406696229" type="2" presentation="1" readable_date="Jun 30, 2018 6:58:16 PM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="0" date="1530585842250" type="3" presentation="1" readable_date="Jul 2, 2018 8:44:02 PM" contact_name="Stacey Radmore" />
+  <call number="+13065804001" duration="39" date="1530622857800" type="2" presentation="1" readable_date="Jul 3, 2018 7:00:57 AM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="18" date="1530672987845" type="1" presentation="1" readable_date="Jul 3, 2018 8:56:27 PM" contact_name="Stacey Radmore" />
+  <call number="15198820901" duration="116" date="1530673811261" type="1" presentation="1" readable_date="Jul 3, 2018 9:10:11 PM" contact_name="Denys Stewart" />
+  <call number="18882267831" duration="59" date="1530746937149" type="2" presentation="1" readable_date="Jul 4, 2018 5:28:57 PM" contact_name="(Unknown)" />
+  <call number="18882267831" duration="2021" date="1530747013317" type="2" presentation="1" readable_date="Jul 4, 2018 5:30:13 PM" contact_name="(Unknown)" />
+  <call number="18882267831" duration="0" date="1530755221000" type="2" presentation="1" readable_date="Jul 4, 2018 7:47:01 PM" contact_name="(Unknown)" />
+  <call number="18882267831" duration="712" date="1530755248942" type="2" presentation="1" readable_date="Jul 4, 2018 7:47:28 PM" contact_name="(Unknown)" />
+  <call number="18882267831" duration="191" date="1530758350864" type="2" presentation="1" readable_date="Jul 4, 2018 8:39:10 PM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="0" date="1530759235876" type="1" presentation="1" readable_date="Jul 4, 2018 8:53:55 PM" contact_name="Stacey Radmore" />
+  <call number="14034762011" duration="0" date="1530802419377" type="3" presentation="1" readable_date="Jul 5, 2018 8:53:39 AM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="0" date="1530846674262" type="3" presentation="1" readable_date="Jul 5, 2018 9:11:14 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1530847090110" type="3" presentation="1" readable_date="Jul 5, 2018 9:18:10 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1530847754298" type="3" presentation="1" readable_date="Jul 5, 2018 9:29:14 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1530847857076" type="3" presentation="1" readable_date="Jul 5, 2018 9:30:57 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="19" date="1530924423130" type="1" presentation="1" readable_date="Jul 6, 2018 6:47:03 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1531090042756" type="3" presentation="1" readable_date="Jul 8, 2018 4:47:22 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1531090089498" type="3" presentation="1" readable_date="Jul 8, 2018 4:48:09 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1531090131779" type="3" presentation="1" readable_date="Jul 8, 2018 4:48:51 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1531092038729" type="3" presentation="1" readable_date="Jul 8, 2018 5:20:38 PM" contact_name="Stacey Radmore" />
+  <call number="15198820901" duration="0" date="1531096245371" type="3" presentation="1" readable_date="Jul 8, 2018 6:30:45 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="0" date="1531101653706" type="3" presentation="1" readable_date="Jul 8, 2018 8:00:53 PM" contact_name="Denys Stewart" />
+  <call number="+15198820901" duration="0" date="1531103491402" type="2" presentation="1" readable_date="Jul 8, 2018 8:31:31 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="234" date="1531103503103" type="2" presentation="1" readable_date="Jul 8, 2018 8:31:43 PM" contact_name="Denys Stewart" />
+  <call number="+15193121387" duration="0" date="1531103754240" type="2" presentation="1" readable_date="Jul 8, 2018 8:35:54 PM" contact_name="Stewart" />
+  <call number="15198820901" duration="0" date="1531103768693" type="2" presentation="1" readable_date="Jul 8, 2018 8:36:08 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="606" date="1531103789676" type="1" presentation="1" readable_date="Jul 8, 2018 8:36:29 PM" contact_name="Denys Stewart" />
+  <call number="4034853804" duration="0" date="1531104375207" type="2" presentation="1" readable_date="Jul 8, 2018 8:46:15 PM" contact_name="Karl Buote" />
+  <call number="14032355226" duration="0" date="1531148224889" type="3" presentation="1" readable_date="Jul 9, 2018 8:57:04 AM" contact_name="(Unknown)" />
+  <call number="14034853804" duration="76" date="1531184391545" type="1" presentation="1" readable_date="Jul 9, 2018 6:59:51 PM" contact_name="Karl Buote" />
+  <call number="14037011113" duration="29" date="1531194895428" type="1" presentation="1" readable_date="Jul 9, 2018 9:54:55 PM" contact_name="Stacey Radmore" />
+  <call number="14032355226" duration="0" date="1531234291062" type="3" presentation="1" readable_date="Jul 10, 2018 8:51:31 AM" contact_name="(Unknown)" />
+  <call number="18888333019" duration="0" date="1531409918682" type="1" presentation="1" readable_date="Jul 12, 2018 9:38:38 AM" contact_name="Spam" />
+  <call number="14032355226" duration="44" date="1531410315606" type="1" presentation="1" readable_date="Jul 12, 2018 9:45:15 AM" contact_name="(Unknown)" />
+  <call number="14032355226" duration="0" date="1531490570801" type="1" presentation="1" readable_date="Jul 13, 2018 8:02:50 AM" contact_name="(Unknown)" />
+  <call number="18888333019" duration="0" date="1531501142696" type="3" presentation="1" readable_date="Jul 13, 2018 10:59:02 AM" contact_name="Spam" />
+  <call number="+13065804001" duration="7" date="1531505664175" type="2" presentation="1" readable_date="Jul 13, 2018 12:14:24 PM" contact_name="(Unknown)" />
+  <call number="4034853804" duration="13" date="1531505778844" type="2" presentation="1" readable_date="Jul 13, 2018 12:16:18 PM" contact_name="Karl Buote" />
+  <call number="4034853804" duration="17" date="1531505835120" type="2" presentation="1" readable_date="Jul 13, 2018 12:17:15 PM" contact_name="Karl Buote" />
+  <call number="4034853804" duration="14" date="1531522105308" type="2" presentation="1" readable_date="Jul 13, 2018 4:48:25 PM" contact_name="Karl Buote" />
+  <call number="4034853804" duration="96" date="1531522154641" type="2" presentation="1" readable_date="Jul 13, 2018 4:49:14 PM" contact_name="Karl Buote" />
+  <call number="18665519381" duration="37" date="1531534610873" type="2" presentation="1" readable_date="Jul 13, 2018 8:16:50 PM" contact_name="(Unknown)" />
+  <call number="18003639992" duration="999" date="1531534681815" type="2" presentation="1" readable_date="Jul 13, 2018 8:18:01 PM" contact_name="(Unknown)" />
+  <call number="14036065006" duration="22" date="1531695450509" type="1" presentation="1" readable_date="Jul 15, 2018 4:57:30 PM" contact_name="Richard Executive Mat" />
+  <call number="15198820901" duration="929" date="1531700792302" type="2" presentation="1" readable_date="Jul 15, 2018 6:26:32 PM" contact_name="Denys Stewart" />
+  <call number="14037011113" duration="0" date="1531710244437" type="3" presentation="1" readable_date="Jul 15, 2018 9:04:04 PM" contact_name="Stacey Radmore" />
+  <call number="18552350667" duration="0" date="1531785482896" type="1" presentation="1" readable_date="Jul 16, 2018 5:58:02 PM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="0" date="1531873812674" type="3" presentation="1" readable_date="Jul 17, 2018 6:30:12 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1531873891803" type="3" presentation="1" readable_date="Jul 17, 2018 6:31:31 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="20" date="1531873984817" type="1" presentation="1" readable_date="Jul 17, 2018 6:33:04 PM" contact_name="Stacey Radmore" />
+  <call number="18888333019" duration="0" date="1531924400912" type="3" presentation="1" readable_date="Jul 18, 2018 8:33:20 AM" contact_name="Spam" />
+  <call number="14035396844" duration="39" date="1531964409018" type="1" presentation="1" readable_date="Jul 18, 2018 7:40:09 PM" contact_name="(Unknown)" />
+  <call number="14035396844" duration="99" date="1531964921526" type="2" presentation="1" readable_date="Jul 18, 2018 7:48:41 PM" contact_name="(Unknown)" />
+  <call number="14035396844" duration="0" date="1531965265446" type="1" presentation="1" readable_date="Jul 18, 2018 7:54:25 PM" contact_name="(Unknown)" />
+  <call number="14035396844" duration="0" date="1531966718111" type="1" presentation="1" readable_date="Jul 18, 2018 8:18:38 PM" contact_name="(Unknown)" />
+  <call number="18888333019" duration="0" date="1532098821880" type="3" presentation="1" readable_date="Jul 20, 2018 9:00:21 AM" contact_name="Spam" />
+  <call number="14037011113" duration="0" date="1532128744213" type="3" presentation="1" readable_date="Jul 20, 2018 5:19:04 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="42" date="1532128784524" type="1" presentation="1" readable_date="Jul 20, 2018 5:19:44 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1532132066781" type="3" presentation="1" readable_date="Jul 20, 2018 6:14:26 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1532132115885" type="3" presentation="1" readable_date="Jul 20, 2018 6:15:15 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1532283064353" type="3" presentation="1" readable_date="Jul 22, 2018 12:11:04 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1532283110889" type="3" presentation="1" readable_date="Jul 22, 2018 12:11:50 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1532283124784" type="2" presentation="1" readable_date="Jul 22, 2018 12:12:04 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="16" date="1532283157267" type="1" presentation="1" readable_date="Jul 22, 2018 12:12:37 PM" contact_name="Stacey Radmore" />
+  <call number="15877073610" duration="70" date="1532284194560" type="1" presentation="1" readable_date="Jul 22, 2018 12:29:54 PM" contact_name="(Unknown)" />
+  <call number="14037011113" duration="35" date="1532306452463" type="1" presentation="1" readable_date="Jul 22, 2018 6:40:52 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="91" date="1532306623854" type="1" presentation="1" readable_date="Jul 22, 2018 6:43:43 PM" contact_name="Stacey Radmore" />
+  <call number="15198820901" duration="565" date="1532308261802" type="1" presentation="1" readable_date="Jul 22, 2018 7:11:01 PM" contact_name="Denys Stewart" />
+  <call number="14037011113" duration="0" date="1532312102319" type="3" presentation="1" readable_date="Jul 22, 2018 8:15:02 PM" contact_name="Stacey Radmore" />
+  <call number="4037011113" duration="0" date="1532312147536" type="2" presentation="1" readable_date="Jul 22, 2018 8:15:47 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="45" date="1532312150882" type="1" presentation="1" readable_date="Jul 22, 2018 8:15:50 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="18" date="1532400566775" type="1" presentation="1" readable_date="Jul 23, 2018 8:49:26 PM" contact_name="Stacey Radmore" />
+  <call number="16105601621" duration="0" date="1532446219720" type="3" presentation="1" readable_date="Jul 24, 2018 9:30:19 AM" contact_name="Spamm" />
+  <call number="16105601621" duration="0" date="1532455816967" type="3" presentation="1" readable_date="Jul 24, 2018 12:10:16 PM" contact_name="Spamm" />
+  <call number="18772370046" duration="0" date="1532458239952" type="3" presentation="1" readable_date="Jul 24, 2018 12:50:39 PM" contact_name="(Unknown)" />
+  <call number="16105601621" duration="0" date="1532463034417" type="3" presentation="1" readable_date="Jul 24, 2018 2:10:34 PM" contact_name="Spamm" />
+  <call number="+13065804001" duration="73" date="1532470540177" type="2" presentation="1" readable_date="Jul 24, 2018 4:15:40 PM" contact_name="(Unknown)" />
+  <call number="16105601621" duration="0" date="1532532303175" type="3" presentation="1" readable_date="Jul 25, 2018 9:25:03 AM" contact_name="Spamm" />
+  <call number="16105601621" duration="0" date="1532550295513" type="3" presentation="1" readable_date="Jul 25, 2018 2:24:55 PM" contact_name="Spamm" />
+  <call number="16105601621" duration="0" date="1532617895973" type="3" presentation="1" readable_date="Jul 26, 2018 9:11:35 AM" contact_name="Spamm" />
+  <call number="18888333019" duration="0" date="1532622018413" type="3" presentation="1" readable_date="Jul 26, 2018 10:20:18 AM" contact_name="Spam" />
+  <call number="18888333019" duration="0" date="1532633300186" type="3" presentation="1" readable_date="Jul 26, 2018 1:28:20 PM" contact_name="Spam" />
+  <call number="14034853804" duration="697" date="1532658506911" type="1" presentation="1" readable_date="Jul 26, 2018 8:28:26 PM" contact_name="Karl Buote" />
+  <call number="18888333019" duration="0" date="1532703219147" type="3" presentation="1" readable_date="Jul 27, 2018 8:53:39 AM" contact_name="Spam" />
+  <call number="14037011113" duration="0" date="1532891877149" type="3" presentation="1" readable_date="Jul 29, 2018 1:17:57 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1532891899373" type="3" presentation="1" readable_date="Jul 29, 2018 1:18:19 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1532891935801" type="3" presentation="1" readable_date="Jul 29, 2018 1:18:55 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1532892004387" type="3" presentation="1" readable_date="Jul 29, 2018 1:20:04 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1532896391415" type="3" presentation="1" readable_date="Jul 29, 2018 2:33:11 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="0" date="1532898517576" type="3" presentation="1" readable_date="Jul 29, 2018 3:08:37 PM" contact_name="Stacey Radmore" />
+  <call number="14037011113" duration="19" date="1532905763340" type="1" presentation="1" readable_date="Jul 29, 2018 5:09:23 PM" contact_name="Stacey Radmore" />
+  <call number="+13065804001" duration="54" date="1532908642764" type="2" presentation="1" readable_date="Jul 29, 2018 5:57:22 PM" contact_name="(Unknown)" />
+  <call number="+13065804001" duration="114" date="1532908705003" type="2" presentation="1" readable_date="Jul 29, 2018 5:58:25 PM" contact_name="(Unknown)" />
+  <call number="15198820901" duration="60" date="1532912527895" type="1" presentation="1" readable_date="Jul 29, 2018 7:02:07 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="0" date="1532912611721" type="3" presentation="1" readable_date="Jul 29, 2018 7:03:31 PM" contact_name="Denys Stewart" />
+  <call number="+15198820901" duration="0" date="1532912627975" type="2" presentation="1" readable_date="Jul 29, 2018 7:03:47 PM" contact_name="Denys Stewart" />
+  <call number="+15198820901" duration="0" date="1532912661553" type="2" presentation="1" readable_date="Jul 29, 2018 7:04:21 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="473" date="1532912672283" type="1" presentation="1" readable_date="Jul 29, 2018 7:04:32 PM" contact_name="Denys Stewart" />
+  <call number="18888333019" duration="0" date="1532977297851" type="3" presentation="1" readable_date="Jul 30, 2018 1:01:37 PM" contact_name="Spam" />
+  <call number="18772370046" duration="0" date="1533149088579" type="3" presentation="1" readable_date="Aug 1, 2018 12:44:48 PM" contact_name="(Unknown)" />
+  <call number="18888333019" duration="0" date="1533235140989" type="3" presentation="1" readable_date="Aug 2, 2018 12:39:00 PM" contact_name="Spam" />
+  <call number="4034755551" duration="0" date="1534987123615" type="2" presentation="1" readable_date="Aug 22, 2018 7:18:43 PM" contact_name="(Unknown)" />
+  <call number="+18774982853" duration="0" date="1535052791859" type="3" presentation="1" readable_date="Aug 23, 2018 1:33:11 PM" contact_name="(Unknown)" />
+  <call number="+14035366372" duration="0" date="1535233926326" type="1" presentation="1" readable_date="Aug 25, 2018 3:52:06 PM" contact_name="(Unknown)" />
+  <call number="+15198820901" duration="724" date="1535328942195" type="1" presentation="1" readable_date="Aug 26, 2018 6:15:42 PM" contact_name="Denys Stewart" />
+  <call number="+16473250504" duration="0" date="1535647965140" type="3" presentation="1" readable_date="Aug 30, 2018 10:52:45 AM" contact_name="(Unknown)" />
+  <call number="+16473250504" duration="0" date="1535648005110" type="3" presentation="1" readable_date="Aug 30, 2018 10:53:25 AM" contact_name="(Unknown)" />
+  <call number="+15876015117" duration="0" date="1535649475358" type="3" presentation="1" readable_date="Aug 30, 2018 11:17:55 AM" contact_name="(Unknown)" />
+  <call number="+16473250504" duration="0" date="1535649518510" type="3" presentation="1" readable_date="Aug 30, 2018 11:18:38 AM" contact_name="(Unknown)" />
+  <call number="+16473250504" duration="114" date="1535650217961" type="2" presentation="1" readable_date="Aug 30, 2018 11:30:17 AM" contact_name="(Unknown)" />
+  <call number="+14035165255" duration="0" date="1535662128714" type="1" presentation="1" readable_date="Aug 30, 2018 2:48:48 PM" contact_name="(Unknown)" />
+  <call number="" duration="378" date="1535667753183" type="1" presentation="3" readable_date="Aug 30, 2018 4:22:33 PM" contact_name="(Unknown)" />
+  <call number="4033124249" duration="0" date="1535670274674" type="2" presentation="1" readable_date="Aug 30, 2018 5:04:34 PM" contact_name="Sean Executive Mat" />
+  <call number="4033124249" duration="60" date="1535670301563" type="2" presentation="1" readable_date="Aug 30, 2018 5:05:01 PM" contact_name="Sean Executive Mat" />
+  <call number="4034231007" duration="0" date="1535741435653" type="2" presentation="1" readable_date="Aug 31, 2018 12:50:35 PM" contact_name="Karl Buote" />
+  <call number="+14034853804" duration="308" date="1535766531239" type="1" presentation="1" readable_date="Aug 31, 2018 7:48:51 PM" contact_name="Karl Buote" />
+  <call number="+15198820901" duration="453" date="1536007764175" type="1" presentation="1" readable_date="Sep 3, 2018 2:49:24 PM" contact_name="Denys Stewart" />
+  <call number="" duration="0" date="1536283345234" type="3" presentation="3" readable_date="Sep 6, 2018 7:22:25 PM" contact_name="(Unknown)" />
+  <call number="+14037011113" duration="126" date="1536287487233" type="1" presentation="1" readable_date="Sep 6, 2018 8:31:27 PM" contact_name="Stacey Radmore" />
+  <call number="" duration="0" date="1536292634185" type="3" presentation="3" readable_date="Sep 6, 2018 9:57:14 PM" contact_name="(Unknown)" />
+  <call number="+14037771111" duration="44" date="1536322865950" type="2" presentation="1" readable_date="Sep 7, 2018 6:21:05 AM" contact_name="(Unknown)" />
+  <call number="" duration="0" date="1536333743382" type="3" presentation="3" readable_date="Sep 7, 2018 9:22:23 AM" contact_name="(Unknown)" />
+  <call number="" duration="119" date="1536334400682" type="1" presentation="3" readable_date="Sep 7, 2018 9:33:20 AM" contact_name="(Unknown)" />
+  <call number="+15198820901" duration="626" date="1536457239653" type="1" presentation="1" readable_date="Sep 8, 2018 7:40:39 PM" contact_name="Denys Stewart" />
+  <call number="4039744000" duration="33" date="1536526915254" type="2" presentation="1" readable_date="Sep 9, 2018 3:01:55 PM" contact_name="(Unknown)" />
+  <call number="4032389929" duration="0" date="1536789456438" type="2" presentation="1" readable_date="Sep 12, 2018 3:57:36 PM" contact_name="X" />
+  <call number="4039744000" duration="28" date="1536930592936" type="2" presentation="1" readable_date="Sep 14, 2018 7:09:52 AM" contact_name="(Unknown)" />
+  <call number="+14037011113" duration="19" date="1536983232029" type="1" presentation="1" readable_date="Sep 14, 2018 9:47:12 PM" contact_name="Stacey Radmore" />
+  <call number="+14034853804" duration="0" date="1537120183753" type="3" presentation="1" readable_date="Sep 16, 2018 11:49:43 AM" contact_name="Karl Buote" />
+  <call number="+16473250504" duration="0" date="1537122030547" type="3" presentation="1" readable_date="Sep 16, 2018 12:20:30 PM" contact_name="(Unknown)" />
+  <call number="+16473250504" duration="0" date="1537122068769" type="3" presentation="1" readable_date="Sep 16, 2018 12:21:08 PM" contact_name="(Unknown)" />
+  <call number="+16473250504" duration="0" date="1537122112435" type="3" presentation="1" readable_date="Sep 16, 2018 12:21:52 PM" contact_name="(Unknown)" />
+  <call number="+16473250504" duration="0" date="1537122157266" type="3" presentation="1" readable_date="Sep 16, 2018 12:22:37 PM" contact_name="(Unknown)" />
+  <call number="+16473250504" duration="0" date="1537122207090" type="3" presentation="1" readable_date="Sep 16, 2018 12:23:27 PM" contact_name="(Unknown)" />
+  <call number="+15198820901" duration="0" date="1537147333611" type="3" presentation="1" readable_date="Sep 16, 2018 7:22:13 PM" contact_name="Denys Stewart" />
+  <call number="+15198820901" duration="0" date="1537150171974" type="3" presentation="1" readable_date="Sep 16, 2018 8:09:31 PM" contact_name="Denys Stewart" />
+  <call number="+15198820901" duration="0" date="1537150290224" type="3" presentation="1" readable_date="Sep 16, 2018 8:11:30 PM" contact_name="Denys Stewart" />
+  <call number="+15198820901" duration="438" date="1537410493690" type="2" presentation="1" readable_date="Sep 19, 2018 8:28:13 PM" contact_name="Denys Stewart" />
+  <call number="+14035396844" duration="51" date="1537493250739" type="1" presentation="1" readable_date="Sep 20, 2018 7:27:30 PM" contact_name="(Unknown)" />
+  <call number="+14038669935" duration="0" date="1537535348019" type="3" presentation="1" readable_date="Sep 21, 2018 7:09:08 AM" contact_name="Enoch" />
+  <call number="4036065006" duration="0" date="1537583532569" type="2" presentation="1" readable_date="Sep 21, 2018 8:32:12 PM" contact_name="Richard Executive Mat" />
+  <call number="4036065006" duration="0" date="1537583558153" type="2" presentation="1" readable_date="Sep 21, 2018 8:32:38 PM" contact_name="Richard Executive Mat" />
+  <call number="+18004859745" duration="45" date="1537585853281" type="2" presentation="1" readable_date="Sep 21, 2018 9:10:53 PM" contact_name="(Unknown)" />
+  <call number="+18004859745" duration="52" date="1537585907344" type="2" presentation="1" readable_date="Sep 21, 2018 9:11:47 PM" contact_name="(Unknown)" />
+  <call number="+14034018669" duration="14" date="1537587001122" type="1" presentation="1" readable_date="Sep 21, 2018 9:30:01 PM" contact_name="(Unknown)" />
+  <call number="+18004859745" duration="153" date="1537635205656" type="2" presentation="1" readable_date="Sep 22, 2018 10:53:25 AM" contact_name="(Unknown)" />
+  <call number="18004859745" duration="24" date="1537637667725" type="2" presentation="1" readable_date="Sep 22, 2018 11:34:27 AM" contact_name="(Unknown)" />
+  <call number="*233*" duration="0" date="1537654908330" type="2" presentation="1" readable_date="Sep 22, 2018 4:21:48 PM" contact_name="(Unknown)" />
+  <call number="+14037771111" duration="66" date="1537659155221" type="2" presentation="1" readable_date="Sep 22, 2018 5:32:35 PM" contact_name="(Unknown)" />
+  <call number="+14037771111" duration="8" date="1537659433260" type="1" presentation="1" readable_date="Sep 22, 2018 5:37:13 PM" contact_name="(Unknown)" />
+  <call number="+15198820901" duration="0" date="1537752064712" type="3" presentation="1" readable_date="Sep 23, 2018 7:21:04 PM" contact_name="Denys Stewart" />
+  <call number="15198820901" duration="7" date="1538180928347" type="2" presentation="1" readable_date="Sep 28, 2018 6:28:48 PM" contact_name="Denys Stewart" />
+  <call number="+15193121387" duration="3" date="1538180975864" type="2" presentation="1" readable_date="Sep 28, 2018 6:29:35 PM" contact_name="Stewart" />
+  <call number="+15198820901" duration="1300" date="1538188095358" type="1" presentation="1" readable_date="Sep 28, 2018 8:28:15 PM" contact_name="Denys Stewart" />
+  <call number="+14037011113" duration="18" date="1538260098156" type="1" presentation="1" readable_date="Sep 29, 2018 4:28:18 PM" contact_name="Stacey Radmore" />
+  <call number="4032389929" duration="0" date="1538499363831" type="2" presentation="1" readable_date="Oct 2, 2018 10:56:03 AM" contact_name="X" />
+  <call number="+14037756881" duration="8" date="1538592022551" type="1" presentation="1" readable_date="Oct 3, 2018 12:40:22 PM" contact_name="(Unknown)" />
+  <call number="+18881238579" duration="0" date="1538669946575" type="3" presentation="1" readable_date="Oct 4, 2018 10:19:06 AM" contact_name="(Unknown)" />
+  <call number="4039744000" duration="30" date="1538852585812" type="2" presentation="1" readable_date="Oct 6, 2018 1:03:05 PM" contact_name="(Unknown)" />
+  <call number="4039744000" duration="20" date="1538852981500" type="2" presentation="1" readable_date="Oct 6, 2018 1:09:41 PM" contact_name="(Unknown)" />
+  <call number="+15874335833" duration="102" date="1538874133890" type="1" presentation="1" readable_date="Oct 6, 2018 7:02:13 PM" contact_name="(Unknown)" />
+  <call number="+14037011113" duration="0" date="1538943011652" type="3" presentation="1" readable_date="Oct 7, 2018 2:10:11 PM" contact_name="Stacey Radmore" />
+  <call number="+15198820901" duration="435" date="1539026496571" type="1" presentation="1" readable_date="Oct 8, 2018 1:21:36 PM" contact_name="Denys Stewart" />
+  <call number="4039744000" duration="0" date="1539128860608" type="2" presentation="1" readable_date="Oct 9, 2018 5:47:40 PM" contact_name="(Unknown)" />
+  <call number="4039744000" duration="22" date="1539172127749" type="2" presentation="1" readable_date="Oct 10, 2018 5:48:47 AM" contact_name="(Unknown)" />
+  <call number="+14034622517" duration="0" date="1539375631082" type="3" presentation="1" readable_date="Oct 12, 2018 2:20:31 PM" contact_name="Shannon" />
+  <call number="+14034622517" duration="200" date="1539377048629" type="2" presentation="1" readable_date="Oct 12, 2018 2:44:08 PM" contact_name="Shannon" />
+  <call number="4032978047" duration="69" date="1539377280119" type="2" presentation="1" readable_date="Oct 12, 2018 2:48:00 PM" contact_name="(Unknown)" />
+  <call number="+14032978047" duration="0" date="1539381086872" type="3" presentation="1" readable_date="Oct 12, 2018 3:51:26 PM" contact_name="(Unknown)" />
+  <call number="+14032978047" duration="0" date="1539381146040" type="3" presentation="1" readable_date="Oct 12, 2018 3:52:26 PM" contact_name="(Unknown)" />
+  <call number="+14032978047" duration="0" date="1539381186894" type="3" presentation="1" readable_date="Oct 12, 2018 3:53:06 PM" contact_name="(Unknown)" />
+  <call number="+14032978047" duration="0" date="1539381261026" type="3" presentation="1" readable_date="Oct 12, 2018 3:54:21 PM" contact_name="(Unknown)" />
+  <call number="+14034622517" duration="0" date="1539381429655" type="3" presentation="1" readable_date="Oct 12, 2018 3:57:09 PM" contact_name="Shannon" />
+  <call number="+14032978047" duration="0" date="1539384222142" type="3" presentation="1" readable_date="Oct 12, 2018 4:43:42 PM" contact_name="(Unknown)" />
+  <call number="+14032978047" duration="1247" date="1539384261533" type="1" presentation="1" readable_date="Oct 12, 2018 4:44:21 PM" contact_name="(Unknown)" />
+  <call number="+14034622517" duration="28" date="1539393015311" type="1" presentation="1" readable_date="Oct 12, 2018 7:10:15 PM" contact_name="Shannon" />
+  <call number="15198820901" duration="145" date="1539439064702" type="2" presentation="1" readable_date="Oct 13, 2018 7:57:44 AM" contact_name="Denys Stewart" />
+  <call number="+15198820901" duration="44" date="1539439636770" type="1" presentation="1" readable_date="Oct 13, 2018 8:07:16 AM" contact_name="Denys Stewart" />
+  <call number="+18006722813" duration="11" date="1539454561348" type="1" presentation="1" readable_date="Oct 13, 2018 12:16:01 PM" contact_name="(Unknown)" />
+  <call number="+15198820901" duration="250" date="1539454770270" type="1" presentation="1" readable_date="Oct 13, 2018 12:19:30 PM" contact_name="Denys Stewart" />
+</calls>

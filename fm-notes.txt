@@ -1,0 +1,139 @@
+https://stackoverflow.com/questions/748675/finding-duplicate-files-and-removing-them
+
+Fastest algorithm - 100x performance increase compared to the accepted answer (really :))
+The approaches in the other solutions are very cool, but they forget about an important property of duplicate files - they have the same file size. Calculating the expensive hash only on files with the same size will save tremendous amount of CPU; performance comparisons at the end, here's the explanation.
+
+Iterating on the solid answers given by @nosklo and borrowing the idea of @Raffi to have a fast hash of just the beginning of each file, and calculating the full one only on collisions in the fast hash, here are the steps:
+
+Buildup a hash table of the files, where the filesize is the key.
+For files with the same size, create a hash table with the hash of their first 1024 bytes; non-colliding elements are unique
+For files with the same hash on the first 1k bytes, calculate the hash on the full contents - files with matching ones are NOT unique.
+The code:
+
+#!/usr/bin/env python
+import sys
+import os
+import hashlib
+
+
+def chunk_reader(fobj, chunk_size=1024):
+    """Generator that reads a file in chunks of bytes"""
+    while True:
+        chunk = fobj.read(chunk_size)
+        if not chunk:
+            return
+        yield chunk
+
+
+def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
+    hashobj = hash()
+    file_object = open(filename, 'rb')
+
+    if first_chunk_only:
+        hashobj.update(file_object.read(1024))
+    else:
+        for chunk in chunk_reader(file_object):
+            hashobj.update(chunk)
+    hashed = hashobj.digest()
+
+    file_object.close()
+    return hashed
+
+
+def check_for_duplicates(paths, hash=hashlib.sha1):
+    hashes_by_size = {}
+    hashes_on_1k = {}
+    hashes_full = {}
+
+    for path in paths:
+        for dirpath, dirnames, filenames in os.walk(path):
+            for filename in filenames:
+                full_path = os.path.join(dirpath, filename)
+                try:
+                    file_size = os.path.getsize(full_path)
+                except (OSError,):
+                    # not accessible (permissions, etc) - pass on
+                    pass
+
+                duplicate = hashes_by_size.get(file_size)
+
+                if duplicate:
+                    hashes_by_size[file_size].append(full_path)
+                else:
+                    hashes_by_size[file_size] = []  # create the list for this file size
+                    hashes_by_size[file_size].append(full_path)
+
+    # For all files with the same file size, get their hash on the 1st 1024 bytes
+    for __, files in hashes_by_size.items():
+        if len(files) < 2:
+            continue    # this file size is unique, no need to spend cpy cycles on it
+
+        for filename in files:
+            small_hash = get_hash(filename, first_chunk_only=True)
+
+            duplicate = hashes_on_1k.get(small_hash)
+            if duplicate:
+                hashes_on_1k[small_hash].append(filename)
+            else:
+                hashes_on_1k[small_hash] = []          # create the list for this 1k hash
+                hashes_on_1k[small_hash].append(filename)
+
+    # For all files with the hash on the 1st 1024 bytes, get their hash on the full file - collisions will be duplicates
+    for __, files in hashes_on_1k.items():
+        if len(files) < 2:
+            continue    # this hash of fist 1k file bytes is unique, no need to spend cpy cycles on it
+
+        for filename in files:
+            full_hash = get_hash(filename, first_chunk_only=False)
+
+            duplicate = hashes_full.get(full_hash)
+            if duplicate:
+                print "Duplicate found: %s and %s" % (filename, duplicate)
+            else:
+                hashes_full[full_hash] = filename
+
+if sys.argv[1:]:
+    check_for_duplicates(sys.argv[1:])
+else:
+    print "Please pass the paths to check as parameters to the script"
+
+And, here's the fun part - performance comparisons.
+
+Baseline -
+
+a directory with 1047 files, 32 mp4, 1015 - jpg, total size - 5445.998 GiB - i.e. my phone's camera auto upload directory :)
+small (but fully functional) processor - 1600 BogoMIPS, 1.2 GHz 32L1 + 256L2 Kbs cache, /proc/cpuinfo:
+Processor : Feroceon 88FR131 rev 1 (v5l) BogoMIPS : 1599.07
+
+(i.e. my low-end NAS :), running Python 2.7.11.
+
+So, the output of @nosklo's very handy solution:
+
+root@NAS:InstantUpload# time ~/scripts/checkDuplicates.py 
+Duplicate found: ./IMG_20151231_143053 (2).jpg and ./IMG_20151231_143053.jpg
+Duplicate found: ./IMG_20151125_233019 (2).jpg and ./IMG_20151125_233019.jpg
+Duplicate found: ./IMG_20160204_150311.jpg and ./IMG_20160204_150311 (2).jpg
+Duplicate found: ./IMG_20160216_074620 (2).jpg and ./IMG_20160216_074620.jpg
+
+real    5m44.198s
+user    4m44.550s
+sys     0m33.530s
+And, here's the version with filter on size check, then small hashes, and finally full hash if collisions are found:
+
+root@NAS:InstantUpload# time ~/scripts/checkDuplicatesSmallHash.py . "/i-data/51608399/photo/Todor phone"
+Duplicate found: ./IMG_20160216_074620 (2).jpg and ./IMG_20160216_074620.jpg
+Duplicate found: ./IMG_20160204_150311.jpg and ./IMG_20160204_150311 (2).jpg
+Duplicate found: ./IMG_20151231_143053 (2).jpg and ./IMG_20151231_143053.jpg
+Duplicate found: ./IMG_20151125_233019 (2).jpg and ./IMG_20151125_233019.jpg
+
+real    0m1.398s
+user    0m1.200s
+sys     0m0.080s
+Both versions were ran 3 times each, to get the avg of the time needed.
+
+So v1 is (user+sys) 284s, the other - 2s; quite a diff, huh :) With this increase, one could go to SHA512, or even fancier - the perf penalty will be mitigated by the less calculations needed.
+
+Negatives:
+
+More disk access than the other versions - every file is accessed once for size stats (that's cheap, but still is disk IO), and every duplicate is opened twice (for the small first 1k bytes hash, and for the full contents hash)
+Will consume more memory due to storing the hash tables runtime
